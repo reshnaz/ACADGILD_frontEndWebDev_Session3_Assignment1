@@ -1,4 +1,15 @@
 # S3A1
+----------------------------------------------------------
+Please preview greeter.html for output that uses the compiled JS file --> greeter.js
+
+Problem Statement
+
+1. Create a Class with name ‘Greeter’ in the greeter.ts and define Constructor and one
+‘greet()’ method which will return some greeting message, then create a greeter.html,
+add compiled file into this HTML like(greeter.js). The output should display as greeting
+message.
+
+-------------------------------------------------------------
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.4.
 
